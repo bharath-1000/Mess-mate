@@ -1,0 +1,6 @@
+{
+  "name": "MessMate — Food Feedback, Menu Management & Social Studio",
+  "description": "Complete college mess food feedback, menu management, rating analytics, complaint tracking system (with full Java/Servlet/JSP/JDBC/MySQL source deliverables) and AI cross-platform social content studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

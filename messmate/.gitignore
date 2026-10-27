@@ -1,0 +1,23 @@
+# Compiled class files and Maven build output
+target/
+*.class
+*.war
+*.ear
+*.jar
+
+# Local environment secrets and untracked database configuration
+.env
+config/local.properties
+src/main/resources/db.local.properties
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
+logs/
+*.log
